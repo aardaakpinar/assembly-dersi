@@ -4,14 +4,14 @@
 
 Öğrendiklerini pekiştirmek için projeler. Zorluk sırasına göre:
 
-### 🟢 Kolay
+### Kolay
 
 1. **Selamlayıcı:** Adı sor, "Merhaba, X!" yaz. (Bölüm 9)
 2. **Toplama makinesi:** İki tek haneli sayıyı klavyeden oku, toplamı yazdır. (`atoi` + `yazdir_sayi`)
 3. **Geri sayım:** 10'dan 1'e kadar say, sonra "Basla!" yaz.
 4. **Tek/çift:** Girilen sayı tek mi çift mi söylesin.
 
-### 🟡 Orta
+### Orta
 
 5. **Faktöriyel hesaplayıcı:** Klavyeden sayı al, faktöriyelini yazdır. (20!'in 64 bit'e sığdığını, 21!'in sığmadığını gözle.)
 6. **Asal sayı testi:** Sayıyı 2'den karekökü civarına kadar bölerek test et.
@@ -20,7 +20,7 @@
 9. **wc benzeri:** Dosyadaki satır sayısını say.
 10. **Caesar şifreleme:** Metni belirli kaydırma ile şifrele.
 
-### 🔴 Zor
+### Zor
 
 11. **Mini `cat`/`hexdump`:** Dosyayı hex olarak yazdır.
 12. **Basit shell:** Satır oku, `fork` + `execve` ile çalıştır. (Syscall'lar: 57, 59, 61)
