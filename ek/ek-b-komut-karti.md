@@ -87,4 +87,4 @@
 
 ---
 
-[← Ek A: Syscall tablosu](ek-a-syscall-tablosu.md) · [Ek C: Sık yapılan hatalar →](ek-c-sik-yapilan-hatalar.md)
+[← Ek A: Syscall tablosu](ek-a-syscall-tablosu.md) · [Ek C: Sık yapılan hatalar →](ek-c-yapilan-hatalar.md)

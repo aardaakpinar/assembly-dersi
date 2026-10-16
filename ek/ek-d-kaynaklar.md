@@ -25,4 +25,4 @@
 
 ---
 
-[← Ek C: Sık yapılan hatalar](ek-c-sik-yapilan-hatalar.md)
+[← Ek C: Sık yapılan hatalar](ek-c-yapilan-hatalar.md)

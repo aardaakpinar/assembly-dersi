@@ -63,7 +63,7 @@ Assembly bilmek zorunda değilsin ama temel programlama kavramlarını (değişk
 
 - [Ek A: Syscall tablosu](ek/ek-a-syscall-tablosu.md)
 - [Ek B: Komut kartı](ek/ek-b-komut-karti.md)
-- [Ek C: Sık yapılan hatalar](ek/ek-c-sik-yapilan-hatalar.md)
+- [Ek C: Sık yapılan hatalar](ek/ek-c-yapilan-hatalar.md)
 - [Ek D: Kaynaklar](ek/ek-d-kaynaklar.md)
 
 ## Katkıda bulunmak
